@@ -1,3 +1,3 @@
 # revert-reset-practice
 git revert
-間違えた変更
+間違えた変更情けない
